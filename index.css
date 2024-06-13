@@ -33,6 +33,11 @@
      background-color: rgba(137, 43, 226, 0.397);
      color: blueviolet;
 }
+#resources > button:hover {
+     border: 2px solid blueviolet;
+     background-color: rgb(137, 43, 226);
+     color: white;
+}
 
 .textAlign {
      margin: 0;
